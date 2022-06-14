@@ -173,12 +173,10 @@ html
 #slider
 {
     position: relative;
-    background-image: url('./img/slider_imgs/chicago.jpg');
     margin-top: var(--header-height);
     width: 100%;
     padding-top: 50%;
-    background-position: top center;
-    background-size: cover;
+    background: url('/asset/img/slider_imgs/chicago.jpg') top center / cover no-repeat;
 }
 
 #slider .text-content
