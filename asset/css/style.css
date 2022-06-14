@@ -176,7 +176,7 @@ html
     margin-top: var(--header-height);
     width: 100%;
     padding-top: 50%;
-    background: url('/img/slider_imgs/chicago.jpg') top center / cover no-repeat;
+    background: url('../img/slider_imgs/chicago.jpg') top center / cover no-repeat;
 }
 
 #slider .text-content
